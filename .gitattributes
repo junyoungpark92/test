@@ -1,1 +1,1 @@
-README.md filter=git-crypt diff=git-crypt
+**/crypt/** filter=git-crypt diff=git-crypt
